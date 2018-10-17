@@ -1,4 +1,4 @@
-require 'solidus_core'
+require 'spree_core'
 require 'solidus_shipstation/engine'
 require 'spree/shipment_notice'
 
