@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-branch = ENV.fetch('SOLIDUS_BRANCH', 'master')
+
 gem 'spree'
 gem 'guard', require: false
 gem 'guard-rspec', require: false
